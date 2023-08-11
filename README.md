@@ -5,7 +5,7 @@
 
 
 # Description
-This is the ReactJS Disney Plus Clone, the perfect project to put on your portfolio by Clever Programmer.
+This is the ReactJS Disney Plus Clone, by Deokrrish
 
 ## Build it today!
 
